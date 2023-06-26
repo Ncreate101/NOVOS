@@ -23,6 +23,7 @@ int main(void) {
     target = targetstr[0];
 
     // Detects Tokens
+    
     switch (target)
     {
     case SECT_DECLARATOR:

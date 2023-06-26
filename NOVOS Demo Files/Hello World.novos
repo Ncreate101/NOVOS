@@ -1,0 +1,6 @@
+#use "sysio"
+
+@BODY {
+    sysio.print("Hello, World!");
+    return;
+}

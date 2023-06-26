@@ -2,6 +2,7 @@
 #define TOKENS
 
     // Tokens
+    
     #define SECT_DECLARATOR = '@'
     #define SECT_CONTAINER_LEFT = '{'
     #define SECT_CONTAINER_RIGHT = '}'

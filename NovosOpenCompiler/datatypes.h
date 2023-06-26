@@ -2,6 +2,7 @@
 #define DATATYPES
 
     // Novos Datatypes
+    
     struct string
     {
         char cont[1];
