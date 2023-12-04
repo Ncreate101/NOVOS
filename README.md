@@ -27,7 +27,7 @@ Novos is a programing language losely based on asembly, but with a syntax more l
 @ASYNC_LABEL {
   sleep.sleep(time);
   sysio.print("I am an async Label\n");
-  return; ~ Returns to where the label was called from, unless asynchronously called, then the label ends and the thred is stopped
+  return; ~ Returns to where the label was called from, unless asynchronously called, then the label ends and the thread is stopped
 }
 
 ~~~
